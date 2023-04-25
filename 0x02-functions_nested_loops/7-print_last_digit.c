@@ -1,4 +1,5 @@
 #include "main.h"
+#include "6-abs.c"
 
 int print_last_digit(int n)
 {
